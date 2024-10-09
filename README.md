@@ -18,12 +18,11 @@ This project implements an Augmented and Alternative Communication (AAC) system 
 
 ## Installation 
 1. Clone the repository to your local machine:
-`bash   
-git clone https://github.com/tinatrinhh/aac-system.git
-cd aac-system`
+   
+`git@github.com:tinatrinhh/AAC_App.git`
 
-2. Open the project in Eclipse or any Java IDE.
-3. Ensure the FreeTTS library is installed and configured:
+3. Open the project in Eclipse or any Java IDE.
+4. Ensure the FreeTTS library is installed and configured:
    * Add FreeTTS to your build path.
    * If using Eclipse:
      * Click on `Build path -> Add Libraries`.
